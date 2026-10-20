@@ -1,133 +1,93 @@
 
+<div align="center">
+
 # Hi, I'm Ritwik Mishra 👋
 
-### CSE Student | Frontend Developer | Exploring Software & AI 🚀
+### B.Tech CSE Student | Cloud Computing & Microsoft Azure Learner
 
-Welcome to my GitHub profile!
+Learning to build, deploy, and improve applications with a growing focus on **cloud computing, Microsoft Azure, and software development.**
 
-I'm **Ritwik Mishra**, a Computer Science and Engineering student at **ABES Engineering College**. I completed my Diploma in Mechanical Engineering and am now building my career in Computer Science.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritwikmishra1/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ritwik26122007)
 
-I'm passionate about technology, programming, web development, and learning new skills. Currently, I'm focused on strengthening my programming fundamentals and creating meaningful projects.
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Pursuing B.Tech in Computer Science & Engineering at ABES Engineering College
-- ⚙️ Diploma graduate in Mechanical Engineering
-- 🌐 Learning HTML, CSS, and JavaScript
-- 🐍 Exploring Python
-- 🧠 Improving my problem-solving and DSA skills
-- 💻 Interested in Web Development, Software Development, and AI
-- 🚀 Building projects and learning something new every day
-- 🎯 Aspiring Software Developer
+</div>
 
 ---
 
-## 🛠️ Skills & Technologies
+## ☁️ About Me
 
-### Languages & Web Technologies
+- 🎓 B.Tech Computer Science Engineering student at ABES Engineering College.
+- ☁️ Exploring Microsoft Azure and cloud computing fundamentals.
+- 💻 Learning C++, Data Structures & Algorithms, and web development.
+- 🚀 Interested in cloud infrastructure, application deployment, and AI.
+- 🌱 Learning by building projects, experimenting, and sharing knowledge.
+- 🤝 Open to connecting with students, developers, and cloud enthusiasts.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python" alt="HTML CSS JavaScript Python" />
-</p>
+## 🧰 Tech Stack & Skills
 
-### Currently Exploring
+### ☁️ Cloud Computing
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,git,github" alt="C++ Git GitHub" />
-</p>
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-Exploring-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-Learning-4285F4?style=flat-square&logo=icloud&logoColor=white)
 
-- Data Structures and Algorithms
-- Frontend Development
-- Artificial Intelligence
-- Software Development
+### 💻 Programming & Web Development
 
----
+![C++](https://img.shields.io/badge/C++-Learning-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Fundamentals-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-Web_Development-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Web_Development-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## 📚 My Learning Journey
+### 🛠️ Tools
 
-```text
-Diploma in Mechanical Engineering
-              ↓
-       Interest in Technology
-              ↓
-          HTML & CSS
-              ↓
-         JavaScript
-              ↓
-           Python
-              ↓
-          C++ & DSA
-              ↓
-    Web Development & AI
-              ↓
-       Software Developer
-```
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Code_Hosting-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-I'm documenting my journey through projects, coding practice, and continuous learning.
+## 🚀 Projects & Interests
 
----
+### ☁️ Cloud Computing
+Exploring cloud platforms and learning how to deploy applications, configure cloud resources, and understand cloud infrastructure.
 
-## 💻 Coding Profiles
+### 🌐 Personal Portfolio
+Developing my web development skills by creating projects that showcase my learning journey and technical interests.
 
-| Platform | Profile |
-|----------|---------|
-| GitHub | [ritwik26122007](https://github.com/ritwik26122007) |
-| LeetCode | [ritwik26122007](https://leetcode.com/u/ritwik26122007/) |
-| CodeChef | [cast_snakes_15](https://www.codechef.com/users/cast_snakes_15) |
+### 🧠 MindCheck
+An idea for a student-focused mental wellness platform designed to make mental health resources more accessible.
 
----
+*More projects and practical cloud implementations coming soon!*
 
-## 🚧 Currently Working On
+## 📚 Current Learning Roadmap
 
-- 🌐 Improving my frontend development skills
-- ⚡ Learning JavaScript in depth
-- 🐍 Strengthening Python fundamentals
-- 🧩 Building a strong DSA foundation
-- 💡 Creating projects for my portfolio
-- 🤖 Exploring AI and emerging technologies
+- [ ] Learn Microsoft Azure fundamentals and core cloud concepts.
+- [ ] Explore Azure compute, storage, and networking services.
+- [ ] Deploy a simple website or web application using Azure.
+- [ ] Learn cloud security, identity, and access management basics.
+- [ ] Strengthen C++ and Data Structures & Algorithms.
+- [ ] Build and document hands-on projects with clear READMEs.
 
----
+## 📊 GitHub Stats
 
-## 🎯 My Goals
+<div align="center">
 
-- [ ] Master HTML, CSS, and JavaScript
-- [ ] Learn C++ and Data Structures & Algorithms
-- [ ] Build meaningful web development projects
-- [ ] Learn React
-- [ ] Explore AI and Machine Learning
-- [ ] Contribute to open source
-- [ ] Participate in coding contests
-- [ ] Secure my first software development internship
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritwik26122007&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritwik26122007&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: [Ritwik Mishra](https://www.linkedin.com/in/ritwikmishra1/)
+- 💻 GitHub: [ritwik26122007](https://github.com/ritwik26122007)
+- 🧩 LeetCode: [ritwik26122007](https://leetcode.com/u/ritwik26122007/)
 
 ---
 
-## 🌐 Connect With Me
+<div align="center">
 
-<p align="left">
-  <a href="https://github.com/ritwik26122007">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/ritwik-mishra-350a6131a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/ritwik26122007/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.codechef.com/users/cast_snakes_15">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-</p>
+### BUILD. LEARN. SHARE. ☁️
 
----
+*Exploring cloud technologies, one project at a time.*
 
-## ⚡ Fun Fact
-
-> Coming from Mechanical Engineering to Computer Science — building my future one line of code at a time.
-
----
-
-### 🚀 Keep Learning. Keep Building. Keep Improving.
-
-Thanks for visiting my profile! 😊
+</div>
